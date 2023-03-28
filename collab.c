@@ -23,11 +23,6 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-void shadd3_alojko2() {
-  printf("Sammy Haddad and Angela Lojko\n");
-  printf("From the readings, we learned that git and GitHub are really effective when working on large projects with many people.\n");
-}
-
 void ppacho2_grohr2() {
   puts("Peter Pacholarz and Gavin Rohrer");
   puts("I learned that you need to make sure the polkit agent is running to "
@@ -52,17 +47,25 @@ void amari9_asurka2(){
   printf("Aaryan Mariselvam and Aarav Surkatha");
   printf("We learned there are many ways we can use and maipulate a git hub repository file\n");
 }
+void jgree31_vpate217()
+{
+  printf("Jack Greenwell and Vasu Patel: ");
+  printf("We learned that the best way to conceptualize github was as a collaborative domain.\n");
+  printf("One where any action or change can be tracked and checked from each collaborator and \n");
+  printf("must be agreed upon by all group members before being permanently added to the final project.\n");
+  printf("It is an incredibly useful tool that we will likely continue to use throughout our professional careers.\n");
+}
 
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
 
   reed_ekidan2();
-  shadd3_alojko2();
   mausaf2_kperez39();
   ppacho2_grohr2();
   dkhar3_nvaly2();
   amari9_asurka2();
+  jgree31_partner();
 
   return 0;
 }
